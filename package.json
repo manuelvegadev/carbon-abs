@@ -1,0 +1,25 @@
+{
+  "name": "carbon-abs",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@carbon/icons-react": "^11.19.0",
+    "@carbon/pictograms-react": "^11.42.0",
+    "@carbon/react": "^1.28.0",
+    "@types/react": "^18.2.6",
+    "@types/react-dom": "^18.2.4",
+    "bootstrap": "^5.2.3",
+    "clsx": "^1.2.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.43.9",
+    "sass": "^1.62.1",
+    "typescript": "^5.0.4"
+  }
+}
