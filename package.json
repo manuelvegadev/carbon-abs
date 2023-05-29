@@ -1,5 +1,6 @@
 {
-  "name": "carbon-abs",
+  "name": "@manuelvega/carbon-abs",
+  "repository": "https://github.com/manuelvegadev/carbon-abs.git",
   "version": "0.0.1",
   "description": "",
   "main": "index.ts",
