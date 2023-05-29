@@ -12,6 +12,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "publishConfig": {
+    "@manuelvega:registry": "https://npm.pkg.github.com"
+  },
   "prettier": {
     "printWidth": 80,
     "trailingComma": "all",
