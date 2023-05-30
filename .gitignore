@@ -130,3 +130,8 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
+### StorybookJs template
+# gitignore template for the Storybook, UI guide for front apps
+# website: https://storybook.js.org/
+
+storybook-static/

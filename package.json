@@ -1,5 +1,5 @@
 {
-  "name": "@manuelvegadev/carbon-abs",
+  "name": "carbon-abs",
   "repository": "https://github.com/manuelvegadev/carbon-abs.git",
   "version": "0.0.1",
   "description": "",
@@ -14,9 +14,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "publishConfig": {
-    "@manuelvegadev:registry": "https://npm.pkg.github.com"
-  },
   "prettier": {
     "printWidth": 80,
     "trailingComma": "all",
